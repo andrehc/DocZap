@@ -13,7 +13,7 @@
 
 ## ⚙️ Tecnologias utilizadas
 
-- [.NET 8](https://dotnet.microsoft.com/)
+- [.NET 9](https://dotnet.microsoft.com/)
 - C#
 - API do WhatsApp (ex: Twilio, WhatsApp Business API)
 - OCR (leitura de texto via imagem)
