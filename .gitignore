@@ -52,3 +52,16 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+
+# macOS
+.DS_Store
+
+# Linux
+*.pid
+
+# Windows Installer files
+*.msi
+*.msm
+*.msp
+
